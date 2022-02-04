@@ -3,12 +3,12 @@ Application for manage customer queue, download apk : https://www.mediafire.com/
 
 how to use
 
-  user
+user
 - choose frist menu
 - scan qr code. qr code in project file
 - you will until your queue
 
-  admin
+admin
 - choose setting icon. this icon on top right sceen
 - enter admin password. Password: 123456
 - you can increase number of use queue or reset number of queue
