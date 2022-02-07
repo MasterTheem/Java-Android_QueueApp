@@ -1,5 +1,6 @@
 # Java-Android_QueueApp
 Application for manage customer queue
+
 need 2 phone for user and admin
 
 install apk file frist. download apk : https://www.mediafire.com/file/9z5oz7cf485hjqe/QueueApp.apk/file
