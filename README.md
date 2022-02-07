@@ -6,6 +6,7 @@ install apk file frist. download apk : https://www.mediafire.com/file/9z5oz7cf48
 
 
 how to use
+
 user
 - choose frist menu
 - scan qr code. only manual scan image can't choose flie scan. qr code in project file link : https://github.com/MasterTheem/Java-Android_QueueApp/blob/main/qr%20code.png
